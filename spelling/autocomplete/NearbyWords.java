@@ -10,7 +10,7 @@ import java.util.List;
 
 
 /**
- * @author UC San Diego Intermediate MOOC team
+ * @author Anthony Voth
  *
  */
 public class NearbyWords implements SpellingSuggest {
